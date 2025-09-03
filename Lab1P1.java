@@ -10,7 +10,7 @@ class Lab1P1{
 		System.out.println(Byte.SIZE);
 		System.out.println(Byte.TYPE);
 		System.out.println(Byte.BYTES);
-		
+		System.out.println("---Byte---");
 		short s =15;
 		Short ss = s;
 		//int x = 200;
